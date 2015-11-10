@@ -1,0 +1,33 @@
+[0m[[0minfo[0m] [0mPackaging /Users/eric/liftigniter/CustomizeElasticSearch/target/scala-2.11/customizeelasticsearch_2.11-0.1.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	org/elasticsearch/index/similarity[0m
+[0m[[0mdebug[0m] [0m	  /Users/eric/liftigniter/CustomizeElasticSearch/target/scala-2.11/classes/org/elasticsearch/index/similarity[0m
+[0m[[0mdebug[0m] [0m	org/elasticsearch/index/similarity/BucketScorer.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/eric/liftigniter/CustomizeElasticSearch/target/scala-2.11/classes/org/elasticsearch/index/similarity/BucketScorer.class[0m
+[0m[[0mdebug[0m] [0m	org/elasticsearch/index/similarity/FixedSimilarityPlugin.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/eric/liftigniter/CustomizeElasticSearch/target/scala-2.11/classes/org/elasticsearch/index/similarity/FixedSimilarityPlugin.class[0m
+[0m[[0mdebug[0m] [0m	org/elasticsearch/index/similarity/FixedSimilarity.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/eric/liftigniter/CustomizeElasticSearch/target/scala-2.11/classes/org/elasticsearch/index/similarity/FixedSimilarity.class[0m
+[0m[[0mdebug[0m] [0m	org/elasticsearch/index/similarity/BaseSimilarityProvider.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/eric/liftigniter/CustomizeElasticSearch/target/scala-2.11/classes/org/elasticsearch/index/similarity/BaseSimilarityProvider.class[0m
+[0m[[0mdebug[0m] [0m	org/elasticsearch/index/similarity/BucketScorer$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/eric/liftigniter/CustomizeElasticSearch/target/scala-2.11/classes/org/elasticsearch/index/similarity/BucketScorer$.class[0m
+[0m[[0mdebug[0m] [0m	org/elasticsearch/index[0m
+[0m[[0mdebug[0m] [0m	  /Users/eric/liftigniter/CustomizeElasticSearch/target/scala-2.11/classes/org/elasticsearch/index[0m
+[0m[[0mdebug[0m] [0m	org/elasticsearch[0m
+[0m[[0mdebug[0m] [0m	  /Users/eric/liftigniter/CustomizeElasticSearch/target/scala-2.11/classes/org/elasticsearch[0m
+[0m[[0mdebug[0m] [0m	org/elasticsearch/index/similarity/BaseSimilarity.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/eric/liftigniter/CustomizeElasticSearch/target/scala-2.11/classes/org/elasticsearch/index/similarity/BaseSimilarity.class[0m
+[0m[[0mdebug[0m] [0m	org[0m
+[0m[[0mdebug[0m] [0m	  /Users/eric/liftigniter/CustomizeElasticSearch/target/scala-2.11/classes/org[0m
+[0m[[0mdebug[0m] [0m	org/elasticsearch/index/similarity/FixedSimilarityProvider.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/eric/liftigniter/CustomizeElasticSearch/target/scala-2.11/classes/org/elasticsearch/index/similarity/FixedSimilarityProvider.class[0m
+[0m[[0mdebug[0m] [0m	org/elasticsearch/index/similarity/BaseSimilarityPlugin.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/eric/liftigniter/CustomizeElasticSearch/target/scala-2.11/classes/org/elasticsearch/index/similarity/BaseSimilarityPlugin.class[0m
+[0m[[0mdebug[0m] [0m	org/elasticsearch/index/similarity/BucketScorerProvider.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/eric/liftigniter/CustomizeElasticSearch/target/scala-2.11/classes/org/elasticsearch/index/similarity/BucketScorerProvider.class[0m
+[0m[[0mdebug[0m] [0m	es-plugin.properties[0m
+[0m[[0mdebug[0m] [0m	  /Users/eric/liftigniter/CustomizeElasticSearch/target/scala-2.11/classes/es-plugin.properties[0m
+[0m[[0mdebug[0m] [0m	org/elasticsearch/index/similarity/BucketScorerPlugin.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/eric/liftigniter/CustomizeElasticSearch/target/scala-2.11/classes/org/elasticsearch/index/similarity/BucketScorerPlugin.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
